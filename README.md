@@ -1,1 +1,1 @@
-# pilotn-kurzy
+# pilotni-kurzy
